@@ -1,0 +1,11 @@
+body{
+    /* background-color: red; */
+}
+img{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 50%;
+    background-color: red;
+    border: 2px solid red;
+}
